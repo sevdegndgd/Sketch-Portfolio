@@ -2,4 +2,4 @@
 
 
 
-![Artisan preview](https://raw.githubusercontent.com/sevdegndgd/Sketch-Portfolio/master/ScreenShots/Artisan.pngg)
+![Artisan preview](https://raw.githubusercontent.com/sevdegndgd/Sketch-Portfolio/master/ScreenShots/Artisan.png)
